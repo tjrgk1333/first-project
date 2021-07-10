@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+  <title>seoseokha.page</title>
+  <meta charset="utf-8">
+  <style>
+    h1{
+      border:5px solid black;
+      padding:10px;
+      margin:0;
+      display:block;
+      width:1fr;
+      font-size: 45px;
+      text-align: center;
+    }
+    </style>
+</head>
+<body>
+    <h1>Introduce Myself</h1>
+  <h2>서석하</h2>
+  <table>
+      <tr><img src = "https://image.shutterstock.com/image-vector/unknown-male-avatar-profile-image-600w-1705329322.jpg" height="350px"></tr>
+      <tr>나를 소개하는 글</tr>
+    </table>
+  </body>
+  </html>
